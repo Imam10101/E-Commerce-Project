@@ -1,0 +1,17 @@
+body{
+    background-color :blanchedalmond;
+}
+
+
+#contact_parent{
+   display: flex;
+    width: 100%;
+}
+
+#contact_parent #child1{
+    width: 50%;
+}
+
+#contact_parent #child2{
+    width: 50%;
+}
